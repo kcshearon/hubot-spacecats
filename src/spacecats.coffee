@@ -12,7 +12,6 @@ cats = [
   "http://editorial.designtaxi.com/news-catsinspace1006/3.gif"
   "http://editorial.designtaxi.com/news-catsinspace1006/6.gif"
   "http://37.media.tumblr.com/tumblr_lv2lke0s631r4xjo2o1_500.gif"
-  "http://i.imgur.com/E9R70Dw.gif"
   "http://24.media.tumblr.com/afb1d46eb3e33ad7b7b8524de8d8a253/tumblr_mxou1sKyoe1qaets3o1_500.gif"
   "http://i.imgur.com/qqDXC4c.jpg"
   "http://31.media.tumblr.com/tumblr_m2ut9qqIzi1qcphveo1_500.jpg"
