@@ -2,7 +2,7 @@
 # cats and space and stars, oh my!
 #
 # Commands:
-# hubot spacecat - get cat in space
+# hubot spacecat me - get cat in space
 # hubot spacecat bomb - even moar cats in space
 #
 # Author:
