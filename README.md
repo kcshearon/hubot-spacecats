@@ -1,6 +1,6 @@
 # hubot-spacecats
 
-cats and space and stars, oh my
+cats and space and stars, oh my!
 
 See [`src/spacecats.coffee`](src/spacecats.coffee) for full documentation.
 
@@ -19,6 +19,6 @@ Then add **hubot-spacecats** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot spacecat me
+hubot>> http://media2.giphy.com/media/6jl2lbqMDrxEQ/giphy.gif
 ```
