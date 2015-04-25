@@ -6,7 +6,7 @@
 # hubot spacecat bomb - even moar cats in space
 #
 # Author:
-#   Kelly Shearon[@<org>]
+#   Kelly Shearon
 
 cats = [
   "http://editorial.designtaxi.com/news-catsinspace1006/3.gif"
