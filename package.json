@@ -2,11 +2,9 @@
   "name": "hubot-spacecats",
   "description": "cats and space and stars, oh my",
   "version": "0.0.0",
-  "author": "Kelly Shearon <kelly@bugsnag.com>",
+  "author": "Kelly Shearon <kellyshearon@gmail.com>",
   "license": "MIT",
-
   "keywords": ["hubot","hubot-scripts"],
-
   "repository": {
     "type": "git",
     "url": "git://github.com/hubot-scripts/hubot-spacecats.git"
