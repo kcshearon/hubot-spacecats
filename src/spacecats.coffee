@@ -42,6 +42,7 @@ cats = [
   "http://media.giphy.com/media/lfJGd7k5tedLG/giphy.gif"
   "http://media.giphy.com/media/jAy1gChH4jXLG/giphy.gif"
   "http://media2.giphy.com/media/6jl2lbqMDrxEQ/giphy.gif"
+  "http://media.boingboing.net/wp-content/uploads/2015/11/tumblr_ny2yb1hnHf1sq1n6uo1_4002.gif"
 ]
 
 module.exports = (robot) ->
